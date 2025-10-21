@@ -65,14 +65,16 @@ export default function Footer() {
           </div>
           <div>
             <h4 className="font-bold mb-4">Contact</h4>
-            <p className="text-gray-400 text-sm">contact@simpleinnovations.co</p>
+            <p className="text-gray-400 text-sm">
+              contact@tenblocksolutions.co
+            </p>
           </div>
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400 text-sm">
-          <p>&copy; 2025 Simple Innovations Limited. All rights reserved.</p>
+          <p>&copy; 2025 TenBlock Solutions Limited. All rights reserved.</p>
         </div>
       </div>
     </footer>
-  )
+  );
 }
